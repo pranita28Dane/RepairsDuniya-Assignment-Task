@@ -45,7 +45,7 @@ This Django project provides a RESTful API for performing CRUD (Create, Read, Up
 
 6. Configure the Database:
 
-  - Open the settings.py file in the user_api directory.
+  - Open the settings.py file in the project directory.
 
   - Update the database settings to use your MySQL database server:
  
